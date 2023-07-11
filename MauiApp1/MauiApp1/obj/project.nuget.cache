@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q0EX6a8GF/Q8eDMVgzh+wm7S5RddO3ttQJ3GWUzV5ekG/Yq6uufavaZ3V0DEUp5RKo4rXEPJ2ELfSd7SJuhwQA==",
+  "dgSpecHash": "78991KN09YVGA3nV4pJObBqmbMcZGCsbxYyZY8stXtBQlx+K7U30VBwU4sz9lNP7SLUIw2zZQJ/7xIvwUtMo9A==",
   "success": true,
-  "projectFilePath": "C:\\Curso\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
+  "projectFilePath": "C:\\CapacitacionMAUI\\MauiApp1\\MauiApp1\\MauiApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marti\\.nuget\\packages\\communitytoolkit.maui\\5.2.0\\communitytoolkit.maui.5.2.0.nupkg.sha512",
     "C:\\Users\\marti\\.nuget\\packages\\communitytoolkit.maui.core\\5.2.0\\communitytoolkit.maui.core.5.2.0.nupkg.sha512",
