@@ -1,0 +1,14 @@
+Microsoft.Maui.Graphics.dll
+Xamarin.AndroidX.Legacy.Support.V4.dll
+Xamarin.AndroidX.Lifecycle.LiveData.dll
+Xamarin.AndroidX.Navigation.Common.dll
+Xamarin.AndroidX.Navigation.Fragment.dll
+androidx.navigation.navigation-common.aar
+androidx.navigation.navigation-fragment.aar
+androidx.lifecycle.lifecycle-livedata.aar
+androidx.legacy.legacy-support-v4.aar
+Microsoft.Maui.dll
+Xamarin.AndroidX.Browser.dll
+androidx.browser.browser.aar
+maui.aar
+Microsoft.Maui.aar

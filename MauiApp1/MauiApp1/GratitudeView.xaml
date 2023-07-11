@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.GratitudeView"
+             Title="GratitudeView">
+    <StackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <Frame AnchorX="900" AnchorY="700" BackgroundColor="LightCyan" >
+            <StackLayout>
+                <Label Text="Gracias por usar mi App" FontSize="Medium" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+                <Label Text="Martin Borselli :)" FontSize="Medium" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

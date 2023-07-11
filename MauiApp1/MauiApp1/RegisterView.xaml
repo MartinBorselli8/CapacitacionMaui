@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp1.RegisterView"
+             Title="Registrarse">
+
+    <ScrollView x:Name="scrollView">
+        <StackLayout Margin="5">
+            <Label Text="Nombre: " FontSize="20"/>
+            <Entry Placeholder="Ingresa tu nombre" FontSize="20"></Entry>
+            <Label Text="Apellido: " FontSize="20"/>
+            <Entry Placeholder="Ingresa tu apellido" FontSize="20"></Entry>
+            <Label Text="DNI: " FontSize="20"/>
+            <Entry Placeholder="Ingresa tu dni" FontSize="20"></Entry>
+            <Label Text="Ingrese su fecha de nacimiento:" FontSize="20"/>
+            <DatePicker x:Name="DatePicker" DateSelected="DatePicker_DateSelected" FontSize="20"/>
+            <Label Text="Domicilio: " FontSize="20"/>
+            <Entry x:Name="lastEntry" Placeholder="Ingresa tu Domicilio" FontSize="20"></Entry>
+            <Label Text="Localidad: " FontSize="20"/>
+            <Entry Placeholder="Ingresa tu localidad" FontSize="20"></Entry>
+            <Label Text="Provincia: " FontSize="20"/>
+            <Entry Placeholder="Ingresa tu provincia" FontSize="20"></Entry>
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="auto" />
+                </Grid.ColumnDefinitions>
+                <StackLayout Orientation="Horizontal" HorizontalOptions="End">
+                    <Button Grid.Column="1" Text="Cancelar" WidthRequest="120" BackgroundColor="DarkRed" Clicked="ButtonCancel_Clicked"/>
+                    <Button Grid.Column="1" Text="Registrarme" WidthRequest="120" BackgroundColor="Green" Clicked="ButtonSummit_Clicked"/>
+                </StackLayout>
+
+            </Grid>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+            <Label FontSize="20"/>
+        </StackLayout>
+    </ScrollView>
+    <!--<ScrollView>
+        
+    </ScrollView>-->
+    
+</ContentPage>

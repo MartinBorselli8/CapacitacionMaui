@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(TargetFramework)' == 'net6.0-android' AND '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.navigation.common\2.4.2\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Navigation.Common.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.navigation.common\2.4.2\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Navigation.Common.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.navigation.fragment\2.4.2\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Navigation.Fragment.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.navigation.fragment\2.4.2\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Navigation.Fragment.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.lifecycle.livedata\2.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Lifecycle.LiveData.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.lifecycle.livedata\2.4.1.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Lifecycle.LiveData.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.legacy.support.v4\1.0.0.13\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.V4.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.legacy.support.v4\1.0.0.13\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Legacy.Support.V4.targets')" />
+    <Import Project="$(NuGetPackageRoot)xamarin.androidx.browser\1.4.0.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Browser.targets" Condition="Exists('$(NuGetPackageRoot)xamarin.androidx.browser\1.4.0.1\buildTransitive\net6.0-android31.0\Xamarin.AndroidX.Browser.targets')" />
+  </ImportGroup>
+</Project>

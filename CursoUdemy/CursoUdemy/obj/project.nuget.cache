@@ -1,0 +1,1735 @@
+{
+  "version": 2,
+  "dgSpecHash": "geZxW+bho5Ljq+TcfWUcL/nxZAfzAVUYZr4wd6tnNiob2wN7uyO9uwt0w2tilyqmecjhJNAXFzuZTi/qj+zWww==",
+  "success": false,
+  "projectFilePath": "C:\\Curso\\CursoUdemy\\CursoUdemy\\CursoUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.dependencies\\6.0.548\\microsoft.maui.dependencies.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.extensions\\6.0.548\\microsoft.maui.extensions.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.graphics\\6.0.501\\microsoft.maui.graphics.6.0.501.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.androidx.browser\\1.4.0.1\\xamarin.androidx.browser.1.4.0.1.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.androidx.legacy.support.v4\\1.0.0.13\\xamarin.androidx.legacy.support.v4.1.0.0.13.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.androidx.lifecycle.livedata\\2.4.1.1\\xamarin.androidx.lifecycle.livedata.2.4.1.1.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.androidx.navigation.common\\2.4.2\\xamarin.androidx.navigation.common.2.4.2.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\xamarin.androidx.navigation.fragment\\2.4.2\\xamarin.androidx.navigation.fragment.2.4.2.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.ref.android\\6.0.548\\microsoft.maui.core.ref.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.runtime.android\\6.0.548\\microsoft.maui.essentials.runtime.android.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.runtime.ios\\6.0.548\\microsoft.maui.controls.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.ref.ios\\6.0.548\\microsoft.maui.essentials.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.ref.ios\\6.0.548\\microsoft.maui.core.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.ios.ref\\16.1.228\\microsoft.ios.ref.16.1.228.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.ref.ios\\6.0.548\\microsoft.maui.controls.ref.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.runtime.ios\\6.0.548\\microsoft.maui.essentials.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.runtime.ios\\6.0.548\\microsoft.maui.core.runtime.ios.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.ref.maccatalyst\\6.0.548\\microsoft.maui.controls.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.ref.maccatalyst\\6.0.548\\microsoft.maui.essentials.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maccatalyst.ref\\16.1.228\\microsoft.maccatalyst.ref.16.1.228.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.runtime.maccatalyst\\6.0.548\\microsoft.maui.core.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.runtime.maccatalyst\\6.0.548\\microsoft.maui.controls.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.ref.maccatalyst\\6.0.548\\microsoft.maui.core.ref.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.runtime.maccatalyst\\6.0.548\\microsoft.maui.essentials.runtime.maccatalyst.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.ref.win\\6.0.548\\microsoft.maui.essentials.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.runtime.win\\6.0.548\\microsoft.maui.core.runtime.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.28\\microsoft.windows.sdk.net.ref.10.0.19041.28.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.ref.win\\6.0.548\\microsoft.maui.controls.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.core.ref.win\\6.0.548\\microsoft.maui.core.ref.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.essentials.runtime.win\\6.0.548\\microsoft.maui.essentials.runtime.win.6.0.548.nupkg.sha512",
+    "C:\\Users\\marti\\.nuget\\packages\\microsoft.maui.controls.runtime.win\\6.0.548\\microsoft.maui.controls.runtime.win.6.0.548.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModelSavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModelSavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModelSavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModelSavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModelSavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModelSavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Interpolator\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Interpolator\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Interpolator\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Interpolator\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Interpolator'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Interpolator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VersionedParcelable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VersionedParcelable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VersionedParcelable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Concurrent.Futures\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Concurrent.Futures'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Concurrent.Futures"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Concurrent.Futures\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Concurrent.Futures'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Concurrent.Futures"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CursorAdapter\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CursorAdapter'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CursorAdapter\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CursorAdapter'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CursorAdapter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CoordinatorLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CoordinatorLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CoordinatorLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CoordinatorLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CoordinatorLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Print\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Print'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Print"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Print\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Print'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Print"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Jdk7\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Jdk7'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk7"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Jdk7\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Jdk7'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk7"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Android.Material\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Android.Material'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Android.Material"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Android.Material\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Android.Material'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Android.Material"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Jdk8\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Jdk8'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk8"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Jdk8\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Jdk8'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Jdk8"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.KotlinX.Coroutines.Android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.KotlinX.Coroutines.Android'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.KotlinX.Coroutines.Android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.KotlinX.Coroutines.Android'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-arm64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-arm64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-arm64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-arm64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.iOS.Ref\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.iOS.Ref'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.iOS.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.iOS.Ref\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.iOS.Ref'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.iOS.Ref"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Core.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Core.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Core.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Loader\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Tracing.Tracing\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Tracing.Tracing'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Core.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Core.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Core.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Browser\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Browser'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Browser"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Loader\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Tracing.Tracing\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Tracing.Tracing'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Tracing.Tracing"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Browser\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Browser'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Browser"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Jetbrains.Annotations\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Jetbrains.Annotations'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Jetbrains.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Loader\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Guava.ListenableFuture\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DrawerLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DrawerLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Jetbrains.Annotations\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Jetbrains.Annotations'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Jetbrains.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Loader\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Loader'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Loader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Guava.ListenableFuture\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Guava.ListenableFuture'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Guava.ListenableFuture"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DrawerLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DrawerLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DrawerLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core.Core.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core.Core.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable.Animated\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable.Animated'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable.Animated\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable.Animated'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core.Core.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core.Core.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable.Animated\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable.Animated'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable.Animated\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable.Animated'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable.Animated"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation.Experimental\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation.Experimental'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation.Experimental"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CustomView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CustomView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Kotlin.StdLib.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Kotlin.StdLib.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Kotlin.StdLib.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CustomView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CustomView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CustomView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CustomView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Fragment\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Fragment'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Fragment"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.GifDecoder\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.GifDecoder'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.GifDecoder"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.GifDecoder\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.GifDecoder'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.GifDecoder"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.Annotations\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.Annotations'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ExifInterface\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ExifInterface'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ExifInterface"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.Annotations\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.Annotations'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.DiskLruCache\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.DiskLruCache'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.DiskLruCache"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ExifInterface\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ExifInterface'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ExifInterface"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide.DiskLruCache\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide.DiskLruCache'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide.DiskLruCache"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Android.Glide\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Android.Glide'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Android.Glide"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Arch.Core.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Arch.Core.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Arch.Core.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Legacy.Support.Core.UI\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.UI'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Legacy.Support.Core.UI\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.UI'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.VectorDrawable\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.VectorDrawable'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.VectorDrawable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Common\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Common'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AsyncLayoutInflater\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AsyncLayoutInflater'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AsyncLayoutInflater"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SlidingPaneLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SlidingPaneLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AsyncLayoutInflater\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AsyncLayoutInflater'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AsyncLayoutInflater"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SlidingPaneLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SlidingPaneLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SlidingPaneLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Transition\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Transition'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Transition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Window\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Window'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Window"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Collection.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Collection.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Collection.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Transition\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Transition'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Transition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Window\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Window'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Window"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Media\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Media'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Media"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Media\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Media'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Media"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState.SavedState.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState.SavedState.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState.SavedState.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Runtime.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Runtime.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Runtime.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SavedState.SavedState.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SavedState.SavedState.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SavedState.SavedState.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.KotlinX.Coroutines.Core.Jvm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.KotlinX.Coroutines.Core.Jvm'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Core.Jvm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CardView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CardView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CardView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.LiveData.Core.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.CardView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.CardView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.CardView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.KotlinX.Coroutines.Core.Jvm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.KotlinX.Coroutines.Core.Jvm'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.KotlinX.Coroutines.Core.Jvm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AppCompat.AppCompatResources\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AppCompat.AppCompatResources'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AppCompat.AppCompatResources"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Activity.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Activity.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Activity.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AppCompat.AppCompatResources\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AppCompat.AppCompatResources'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AppCompat.AppCompatResources"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SwipeRefreshLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SwipeRefreshLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.SwipeRefreshLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.SwipeRefreshLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.SwipeRefreshLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Security.SecurityCrypto\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Security.SecurityCrypto'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Security.SecurityCrypto\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Security.SecurityCrypto'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Security.SecurityCrypto"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ConstraintLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ConstraintLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ConstraintLayout\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ConstraintLayout'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DocumentFile\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DocumentFile'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DocumentFile"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DocumentFile\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DocumentFile'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DocumentFile"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Legacy.Support.Core.Utils\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.Utils'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Legacy.Support.Core.Utils\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Legacy.Support.Core.Utils'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Legacy.Support.Core.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.LocalBroadcastManager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.LocalBroadcastManager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.LocalBroadcastManager\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.LocalBroadcastManager'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.LocalBroadcastManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AppCompat\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AppCompat'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AppCompat"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.AppCompat\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.AppCompat'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.AppCompat"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.ViewModel.Ktx\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.ViewModel.Ktx'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.ViewModel.Ktx"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager2\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager2'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ViewPager2\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ViewPager2'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ViewPager2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.iOS.Runtime.iossimulator-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.iOS.Runtime.iossimulator-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.iOS.Runtime.iossimulator-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.iOS.Runtime.iossimulator-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.iOS.Runtime.iossimulator-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.iOS.Runtime.iossimulator-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Essentials.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Essentials.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Essentials.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Essentials.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Essentials.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Configuration\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Configuration'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Configuration\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Configuration'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Configuration\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Configuration'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Configuration\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Configuration'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.WindowsDesktop.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.WindowsDesktop.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.WindowsDesktop.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.WindowsDesktop.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.WindowsDesktop.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Runtime.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Runtime.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-arm64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-arm64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-arm64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-arm64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Graphics.Win2D\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Graphics.Win2D'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Graphics.Win2D"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-arm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-arm'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Graphics.Win2D\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Graphics.Win2D'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Graphics.Win2D"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-arm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-arm'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-arm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Core.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Core.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Core.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.AspNetCore.App.Runtime.linux-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.AspNetCore.App.Runtime.linux-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.AspNetCore.App.Runtime.linux-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Windows.SDK.BuildTools\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Windows.SDK.BuildTools'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Windows.SDK.BuildTools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Core.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Core.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Core.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Runtime.ios\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Runtime.ios'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.ios"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Controls.Runtime.ios\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Controls.Runtime.ios'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Controls.Runtime.ios"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.WindowsAppSDK\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.WindowsAppSDK'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-x86\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-x86'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x86"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.WindowsAppSDK\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.WindowsAppSDK'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.WindowsAppSDK"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-x86\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-x86'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-x86"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.MacCatalyst.Runtime.maccatalyst-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.MacCatalyst.Runtime.maccatalyst-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.MacCatalyst.Runtime.maccatalyst-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"GoogleGson\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='GoogleGson'&semVerLevel=2.0.0\".",
+      "libraryId": "GoogleGson"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.MacCatalyst.Runtime.maccatalyst-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.MacCatalyst.Runtime.maccatalyst-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.MacCatalyst.Runtime.maccatalyst-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging.Abstractions\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging.Abstractions\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"GoogleGson\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='GoogleGson'&semVerLevel=2.0.0\".",
+      "libraryId": "GoogleGson"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging.Abstractions\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Extensions.Logging.Abstractions\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Extensions.Logging.Abstractions'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Ref.31\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Ref.31'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Ref.31"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Essentials.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Essentials.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Graphics.Win2D.WinUI.Desktop\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Graphics.Win2D.WinUI.Desktop'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Ref.31\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Ref.31'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Ref.31"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Graphics.Win2D.WinUI.Desktop\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Graphics.Win2D.WinUI.Desktop'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Maui.Essentials.Ref.android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Maui.Essentials.Ref.android'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Maui.Essentials.Ref.android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ResourceInspection.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ResourceInspection.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ResourceInspection.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-arm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-arm'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ResourceInspection.Annotation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ResourceInspection.Annotation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ResourceInspection.Annotation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Emoji2\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Emoji2'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Emoji2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.Android.Runtime.31.android-arm\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.Android.Runtime.31.android-arm'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.Android.Runtime.31.android-arm"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Emoji2\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Emoji2'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Emoji2"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Crypto.Tink.Android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Crypto.Tink.Android'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.Google.Crypto.Tink.Android\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.Google.Crypto.Tink.Android'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.Google.Crypto.Tink.Android"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Navigation.UI\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Navigation.UI'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Process\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Process'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Process"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Navigation.UI\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Navigation.UI'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Navigation.UI"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Lifecycle.Process\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Lifecycle.Process'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Lifecycle.Process"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ConstraintLayout.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ConstraintLayout.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Navigation.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Navigation.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.ConstraintLayout.Core\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.ConstraintLayout.Core'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.ConstraintLayout.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Navigation.Runtime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Navigation.Runtime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Navigation.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Startup.StartupRuntime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Startup.StartupRuntime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Startup.StartupRuntime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Startup.StartupRuntime\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Startup.StartupRuntime'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Startup.StartupRuntime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.RecyclerView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.RecyclerView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.RecyclerView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Runtime.InteropServices.NFloat.Internal\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='System.Runtime.InteropServices.NFloat.Internal'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Runtime.InteropServices.NFloat.Internal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Runtime.InteropServices.NFloat.Internal\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='System.Runtime.InteropServices.NFloat.Internal'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Runtime.InteropServices.NFloat.Internal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.RecyclerView\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.RecyclerView'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.RecyclerView"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Runtime.InteropServices.NFloat.Internal\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='System.Runtime.InteropServices.NFloat.Internal'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Runtime.InteropServices.NFloat.Internal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"System.Runtime.InteropServices.NFloat.Internal\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='System.Runtime.InteropServices.NFloat.Internal'&semVerLevel=2.0.0\".",
+      "libraryId": "System.Runtime.InteropServices.NFloat.Internal"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DynamicAnimation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DynamicAnimation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DynamicAnimation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.DynamicAnimation\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.DynamicAnimation'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.DynamicAnimation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Emoji2.ViewsHelper\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Emoji2.ViewsHelper'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Emoji2.ViewsHelper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Xamarin.AndroidX.Emoji2.ViewsHelper\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Xamarin.AndroidX.Emoji2.ViewsHelper'&semVerLevel=2.0.0\".",
+      "libraryId": "Xamarin.AndroidX.Emoji2.ViewsHelper"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.NETCore.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.NETCore.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "No se pudo recuperar información sobre \"Microsoft.NETCore.App.Runtime.win-x64\" del origen remoto \"https://nuget.gruposancorseguros.com/nuget/FindPackagesById()?id='Microsoft.NETCore.App.Runtime.win-x64'&semVerLevel=2.0.0\".",
+      "libraryId": "Microsoft.NETCore.App.Runtime.win-x64"
+    }
+  ]
+}
